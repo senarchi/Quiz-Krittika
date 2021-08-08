@@ -1,1 +1,1 @@
-# Quiz-Krittika
+# My-Quiz-game
